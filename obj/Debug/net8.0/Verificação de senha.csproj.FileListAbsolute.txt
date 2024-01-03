@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\bin\Debug\net8.0\Verificação de senha.exe
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\bin\Debug\net8.0\Verificação de senha.deps.json
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\bin\Debug\net8.0\Verificação de senha.runtimeconfig.json
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\bin\Debug\net8.0\Verificação de senha.dll
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\bin\Debug\net8.0\Verificação de senha.pdb
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\Verificação de senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\Verificação de senha.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\Verificação de senha.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\Verificação de senha.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\Verificação de senha.dll
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\refint\Verificação de senha.dll
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\Verificação de senha.pdb
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\Verificação de senha.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Programação2\Projetos\Verificação de senha\obj\Debug\net8.0\ref\Verificação de senha.dll
